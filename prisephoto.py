@@ -1,6 +1,5 @@
 import cv2
 
-
 def photo():
     cap = cv2.VideoCapture(0)
     flag=True
